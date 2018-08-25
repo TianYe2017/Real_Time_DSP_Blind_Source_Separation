@@ -1,0 +1,1 @@
+"./c6416dskinit.obj" "./Vectors_intr.obj" "./RingMod_Main.obj" -l"rts6400.lib" -l"dsk6416bsl.lib" -l"csl6416.lib" "../C6416dsk.cmd" 

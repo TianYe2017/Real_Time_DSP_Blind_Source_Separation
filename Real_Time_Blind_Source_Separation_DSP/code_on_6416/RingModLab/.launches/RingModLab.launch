@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="com.ti.ccstudio.debug.core.CCELaunchType">
+<booleanAttribute key="com.ti.ccstudio.debug.core.MRU_PROGRAM_S_ONLY" value="false"/>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="false"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.ti.ccstudio.debug.core.CCEDebugger"/>
+<stringAttribute key="CCEDebugOptions.CPU_RESOLVE_OPTION" value="first_compatible"/>
+<stringAttribute key="org.eclipse.debug.ui.DISPLAY_NAME" value="RingModLab [Debug] - Spectrum Digital DSK-EVM-eZdsp onboard USB Emulator_0/C64xx_0"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_REGISTER_GROUPS" value=""/>
+<stringAttribute key="CCEDebugOptions.LOADING_OPTION" value="program"/>
+<stringAttribute key="CCEDebugOptions.DEBUG_PROPERTIES.Spectrum Digital DSK-EVM-eZdsp onboard USB Emulator_0/C64xx_0" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot; ?&gt;&#10;&lt;PropertyValues&gt;&#10;&#10;  &lt;property id=&quot;ConnectOnStartup&quot;&gt;&#10;    &lt;curValue&gt;1&lt;/curValue&gt;&#10;  &lt;/property&gt;&#10;&#10;&lt;/PropertyValues&gt;&#10;"/>
+<mapAttribute key="com.ti.ccstudio.debug.core.VARIABLE_STATE"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
+<stringAttribute key="com.ti.ccstudio.debug.core.DISPLAY_NAME_FORMAT" value="RingModLab [Debug] - {0}"/>
+<stringAttribute key="CCEDebugOptions.TARGET_CONFIGURATION_OPTION" value="full"/>
+<stringAttribute key="org.eclipse.cdt.launch.MEMORY_BLOCKS" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#13;&#10;&lt;memoryBlockExpressionList/&gt;&#13;&#10;"/>
+<stringAttribute key="com.ti.ccstudio.debug.core.MRU_PROGRAM_NAME" value="C:\Users\wangs\Documents\EE586\Project\Actual_6416\RingModLab\Debug\RingModLab.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.core.MRU_MODULES" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#13;&#10;&lt;modules&gt;&#13;&#10;&lt;module name=&quot;C:\Users\B18 DSP 9\Desktop\2018_dsp_lab_common\HomeWork2_Instructions\RingModLab_New\Debug\RingModLab.out&quot; time=&quot;Mon Jan 22 17:30:52 PST 2018&quot; time_long=&quot;1516671052189&quot;/&gt;&#13;&#10;&lt;module name=&quot;C:\Users\wangs\Documents\EE586\HW2\Q2\RingModLab\Release\RingModLab.out&quot; time=&quot;Mon Apr 09 12:37:02 PDT 2018&quot; time_long=&quot;1523302622617&quot;/&gt;&#13;&#10;&lt;module name=&quot;C:\Users\wangs\Documents\EE586\HW2\Q2\RingModLab\Debug\RingModLab.out&quot; time=&quot;Mon Apr 16 14:56:12 PDT 2018&quot; time_long=&quot;1523915772890&quot;/&gt;&#13;&#10;&lt;module name=&quot;C:\Users\wangs\Documents\EE586\Project\Actual_6416\RingModLab\Debug\RingModLab.out&quot; time=&quot;Fri Apr 27 10:33:10 PDT 2018&quot; time_long=&quot;1524850390949&quot;/&gt;&#13;&#10;&lt;/modules&gt;&#13;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="RingModLab"/>
+<stringAttribute key="CCEDebugOptions.CPU_NAME" value="Spectrum Digital DSK-EVM-eZdsp onboard USB Emulator_0/C64xx_0"/>
+<stringAttribute key="CCEDebugOptions.DEBUG_PROPERTIES.Spectrum Digital DSK-EVM-eZdsp onboard USB Emulator_0/TMS320C671X" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot; ?&gt;&#10;&lt;PropertyValues&gt;&#10;&#10;  &lt;property id=&quot;ConnectOnStartup&quot;&gt;&#10;    &lt;curValue&gt;1&lt;/curValue&gt;&#10;  &lt;/property&gt;&#10;&#10;&lt;/PropertyValues&gt;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.GLOBAL_VARIABLES" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#13;&#10;&lt;globalVariableList/&gt;&#13;&#10;"/>
+<stringAttribute key="CCEDebugOptions.CPU_ISA" value="TMS320C64XX"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/RingModLab.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.core.BUILD_CONFIGURATION" value="Debug"/>
+<stringAttribute key="CCEDebugOptions.TARGET_CONFIGURATION_FILE" value="C:\Users\wangs\Documents\EE586\Project\Actual_6416\RingModLab\a.ccxml"/>
+</launchConfiguration>
